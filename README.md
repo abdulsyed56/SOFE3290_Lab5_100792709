@@ -1,1 +1,5 @@
-# SOFE3290_Lab5_100792709 Lab 5 submission files.
+# SOFE3290_Lab5_100792709 
+
+## Task 1
+Note: GitHub may show an "Invalid Notebook" preview error for the .ipynb file due to Colab widget metadata. 
+The notebook opens and runs correctly in Google Colab. If preview fails, please open the notebook in Colab or Jupyter Notebook.
